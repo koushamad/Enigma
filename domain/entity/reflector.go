@@ -7,5 +7,5 @@ type Reflect struct {
 }
 
 type Reflector interface {
-	Save()
+	Save() error
 }

@@ -1,9 +1,7 @@
 package main
 
-import (
-	"github.com/koushamad/Enigma/app/reflector"
-)
+import "github.com/koushamad/Enigma/app/reflector/console"
 
 func main() {
-	reflector.Generate().Save()
+	console.Reflector{}.Run()
 }

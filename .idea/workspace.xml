@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15dc5686-c8dd-49a6-a391-afece4488287" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/reflector/console/reflector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/reflector/reflector.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/reflector/service/reflector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/reflector/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/bin/reflector/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/entity/reflector.go" beforeDir="false" afterPath="$PROJECT_DIR$/domain/entity/reflector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/repository/file/reflector/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/infra/repository/file/repository.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.4/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gUrmtCv2DRC6K8tzGFcpXB9hLW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/infra/repository/file" />
+      <recent name="$PROJECT_DIR$/app/reflector/service" />
+      <recent name="$PROJECT_DIR$/app/reflector" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Enigma" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/bin/reflector/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="2" Folder0="$PROJECT_DIR$/app/reflector/service" Folder1="$PROJECT_DIR$/infra/repository/file" CustomDictionaries="2" CustomDictionary0="$PROJECT_DIR$/app/reflector/service/reflector.go" CustomDictionary1="$PROJECT_DIR$/infra/repository/file/repository.go" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add repository.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="add repository.go" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="211" key="#Inspections" timestamp="1598188806383">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="590" y="211" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1598188806383" />
+    <state x="684" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599330875882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="684" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599330875882" />
+    <state x="663" y="77" key="#xdebugger.evaluate" timestamp="1599399332443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="663" y="77" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1599399332443" />
+    <state width="1868" height="515" key="GridCell.Tab.0.bottom" timestamp="1599410680546">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="515" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599410680546" />
+    <state width="1868" height="515" key="GridCell.Tab.0.center" timestamp="1599410680545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="515" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599410680545" />
+    <state width="1868" height="515" key="GridCell.Tab.0.left" timestamp="1599410680544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="515" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599410680544" />
+    <state width="1868" height="515" key="GridCell.Tab.0.right" timestamp="1599410680546">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="515" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599410680546" />
+    <state width="1868" height="355" key="GridCell.Tab.1.bottom" timestamp="1599399856079">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599399856079" />
+    <state width="1868" height="355" key="GridCell.Tab.1.center" timestamp="1599399856078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="355" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599399856078" />
+    <state width="1868" height="355" key="GridCell.Tab.1.left" timestamp="1599399856077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="355" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599399856077" />
+    <state width="1868" height="355" key="GridCell.Tab.1.right" timestamp="1599399856078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="355" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599399856078" />
+    <state x="460" y="212" key="Vcs.Push.Dialog.v2" timestamp="1599388555737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="460" y="212" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1599388555737" />
+    <state x="748" y="282" key="refactoring.ChangeSignatureDialog" timestamp="1599394644665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="282" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599394644665" />
+    <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1599394237370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599394237370" />
+    <state x="685" y="439" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599330899868">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="439" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599330899868" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/app/reflector/service/reflector.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/infra/repository/file/repository.go</url>
+          <line>91</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/infra/repository/file/repository.go</url>
+          <line>97</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
